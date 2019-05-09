@@ -1,0 +1,7 @@
+ {
+  "accessKeyId": "AKIAIL4TADVT4PIPOE7Q",
+  "secretAccessKey": "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",
+  "region": "us-east-2b",
+  "s3BucketEndpoint": true,
+  "endpoint": "https://cryptoexchange1.s3.amazonaws.com"
+}

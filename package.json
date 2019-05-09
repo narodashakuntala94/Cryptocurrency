@@ -1,0 +1,53 @@
+{
+  "name": "coinmarket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://himanshu_dhiman@bitbucket.org/himanshu_dhiman/coinmarket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/himanshu_dhiman/coinmarket#readme",
+  "dependencies": {
+    "@cityofzion/neon-js": "^3.9.1",
+    "@waves/waves-api": "^1.5.1",
+    "all-the-cities": "^2.0.1",
+    "arkjs": "^0.2.1",
+    "aws-sdk": "^2.368.0",
+    "bcrypt": "^2.0.1",
+    "bcrypt-nodejs": "0.0.3",
+    "bgoldjs-lib": "^3.3.3",
+    "bip39": "^2.5.0",
+    "bitcoin-transaction": "^1.1.0",
+    "bitcoincashjs": "^0.1.10",
+    "bitcoinjs-lib": "^4.0.2",
+    "bitgo": "^4.30.1",
+    "cors": "^2.8.4",
+    "countryjs": "^1.8.0",
+    "cron": "^1.3.0",
+    "ethereumjs-tx": "^1.3.6",
+    "ethereumjs-wallet": "^0.6.0",
+    "express": "^4.16.3",
+    "graceful-fs": "^4.1.11",
+    "joi": "^13.4.0",
+    "lodash": "^4.17.10",
+    "mongoose": "^5.1.5",
+    "mongoose-unique-validator": "^2.0.1",
+    "multer": "^1.4.1",
+    "multer-s3": "^2.9.0",
+    "nem-sdk": "^1.6.7",
+    "nodemailer": "^4.6.8",
+    "request": "^2.87.0",
+    "ripple-keypairs": "^0.11.0",
+    "urljoin": "^0.1.5",
+    "web3": "^0.20.2",
+    "xmlhttprequest": "^1.8.0",
+    "zcash-bitcore-lib": "^0.13.20-rc3"
+  }
+}
